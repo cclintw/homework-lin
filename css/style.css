@@ -129,6 +129,10 @@ h6{
     object-fit: cover;
 }
 
+.intro-section + main .card-img-top{
+    aspect-ratio: 3 / 4;
+}
+
 /* ===== GLOBAL IMG SAFETY ===== */
 img{
     max-width: 100%;
